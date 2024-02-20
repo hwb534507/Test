@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,7 +20,7 @@ namespace GitTest
         private void Form1_Load(object sender, EventArgs e)
         {
             int i = 0;
-            i = i + 3;
+            i = i + 2;
         }
     }
 }
